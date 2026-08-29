@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_item_width">100dp</dimen>
+    <dimen name="app_item_height">100dp</dimen>
+    <dimen name="app_item_margin_horizontal">10dp</dimen>
+    <dimen name="app_list_margin_top">100dp</dimen>
+</resources>
