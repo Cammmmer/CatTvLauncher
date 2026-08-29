@@ -48,5 +48,6 @@ dependencies {
 
     implementation(project(":commom"))
     implementation(project(":appinfo"))
+    implementation(project(":wallpaper"))
 
 }

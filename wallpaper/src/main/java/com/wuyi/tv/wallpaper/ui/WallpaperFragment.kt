@@ -1,11 +1,11 @@
-package com.wuyi.tv.ui
+package com.wuyi.tv.wallpaper.ui
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import com.wuyi.tv.databinding.FragmentWallpaperBinding
+import com.wuyi.tv.wallpaper.databinding.FragmentWallpaperBinding
 
 /**
  * @Author: Cemmmmmer
@@ -13,9 +13,7 @@ import com.wuyi.tv.databinding.FragmentWallpaperBinding
  * @Description:
  */
 class WallpaperFragment : Fragment() {
-
     private var rootViewBinding: FragmentWallpaperBinding? = null
-
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
@@ -27,7 +25,6 @@ class WallpaperFragment : Fragment() {
             return this.root
         }
     }
-
     private fun initView() {
     }
 }

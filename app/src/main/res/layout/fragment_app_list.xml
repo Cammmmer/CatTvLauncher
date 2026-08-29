@@ -8,7 +8,5 @@
         android:id="@+id/appList"
         android:layout_width="match_parent"
         android:layout_height="600dp"
-        android:layout_marginTop="@dimen/app_list_margin_top"
-        android:focusable="true"
-        android:focusableInTouchMode="true" />
+        android:layout_marginTop="@dimen/app_list_margin_top" />
 </FrameLayout>

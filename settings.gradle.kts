@@ -35,3 +35,4 @@ rootProject.name = "CatTvLauncher"
 include(":app")
 include(":commom")
 include(":appinfo")
+include(":wallpaper")
