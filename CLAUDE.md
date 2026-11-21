@@ -27,5 +27,5 @@ CatTvLauncher：Android TV 桌面应用（Home 替换），Kotlin + View 体系 
 | `doc/全局约束.md` | **【强制读取】编码约束，编码过程第一要求** |
 | `doc/全局架构.md` | 模块结构、依赖方向、入口与核心数据流 |
 | `doc/模块/应用列表/` | 桌面核心功能：加载已安装应用、置顶排序、点击启动 |
-| `doc/模块/壁纸/` | `:wallpaper` 模块：桌面背景层（ImageView 展示默认壁纸，windowBackground 仅作冷启动兜底） |
+| `doc/模块/壁纸/` | `:wallpaper` 模块：桌面背景层（ImageView 展示默认壁纸） |
 | `doc/模块/公共基础/` | commom 模块基础能力：全局 Context、日志、基类 |
